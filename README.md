@@ -39,6 +39,7 @@ Abre una terminal y ejecuta el archivo principal:
 py main.py o python main.py
 - Duplica la carpeta del proyecto:
 Copia la carpeta py_to_exe_gui y renómbrala, por ejemplo: py_to_exe_gui2
+![Step 1 and 2](2025-09-15_20-29.png)
 - Selecciona el archivo a convertir:
 En la interfaz del convertidor, selecciona el archivo main.py ubicado dentro de py_to_exe_gui2.
 - Selecciona el ícono:
