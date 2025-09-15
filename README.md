@@ -54,6 +54,8 @@ Copia junto al .exe los siguientes archivos:
 - idioma.py
 - languages.py
 - Descomprime el archivo pyinstaller_portable.rar en la misma ubicación
+- La ruta se vera /pyinstaller_portable/ seguida da las carpetas LIB, Scripts, Include y 2 archivos, python.exe y pyvenv.cfg
+- si vez /pyinstaller_portable/pyinstaller_portable/ la carpeta duplicada esta mal
 - ![Folders](2025-09-15_20-29.png)
 
 Con estos pasos, tendrás una versión ejecutable del programa lista para distribuir o usar sin necesidad de instalar Python.
