@@ -46,6 +46,7 @@ En la interfaz del convertidor, selecciona el archivo main.py ubicado dentro de 
 Usa el ícono incorporado en el proyecto para personalizar el ejecutable.
 - Haz clic en “Convertir”:
 El proceso comenzará y tomará unos segundos.
+![Step 3 to 5](2.png)
 - Ubica el ejecutable:
 El archivo .exe generado estará dentro de la carpeta dist.
 - Agrega los archivos necesarios:
