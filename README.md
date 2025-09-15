@@ -2,6 +2,8 @@
 
 Multilingual: Available in Spanish, English, French, German, Ukrainian, and Chinese.
 
+![py_to_exe_gui](ima.png)
+
 # # 🐍💻 Convertidor de Python a EXE — por Pablo Otero M.
 Septiembre 2025
 Este programa ha sido diseñado para desarrolladores, estudiantes y entusiastas de Python que desean transformar sus scripts .py en aplicaciones ejecutables .exe de forma rápida, intuitiva y profesional.
@@ -29,6 +31,7 @@ Pensada para distribución final. El usuario puede convertir scripts sin tener P
 Este convertidor es más que una herramienta: es una experiencia pensada para facilitar el trabajo del programador, con elegancia, eficiencia y un toque personal
 
 # # 📝 Cómo generar el ejecutable del programa
+![Folders](2025-09-15_20-29.png)
 Debido a las limitaciones de GitHub (no permite subir archivos mayores a 25 MB), el archivo .exe no está incluido directamente en el repositorio. Sin embargo, puedes generarlo fácilmente utilizando el propio convertidor incluido en el proyecto.
 🔧 Pasos para crear el ejecutable:
 - Ejecuta el programa:
