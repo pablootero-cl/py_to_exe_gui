@@ -28,3 +28,26 @@ Pensada para distribución final. El usuario puede convertir scripts sin tener P
 
 Este convertidor es más que una herramienta: es una experiencia pensada para facilitar el trabajo del programador, con elegancia, eficiencia y un toque personal
 
+# # 📝 Cómo generar el ejecutable del programa
+Debido a las limitaciones de GitHub (no permite subir archivos mayores a 25 MB), el archivo .exe no está incluido directamente en el repositorio. Sin embargo, puedes generarlo fácilmente utilizando el propio convertidor incluido en el proyecto.
+🔧 Pasos para crear el ejecutable:
+- Ejecuta el programa:
+Abre una terminal y ejecuta el archivo principal:
+py main.py o python main.py
+- Duplica la carpeta del proyecto:
+Copia la carpeta py_to_exe_gui y renómbrala, por ejemplo: py_to_exe_gui2
+- Selecciona el archivo a convertir:
+En la interfaz del convertidor, selecciona el archivo main.py ubicado dentro de py_to_exe_gui2.
+- Selecciona el ícono:
+Usa el ícono incorporado en el proyecto para personalizar el ejecutable.
+- Haz clic en “Convertir”:
+El proceso comenzará y tomará unos segundos.
+- Ubica el ejecutable:
+El archivo .exe generado estará dentro de la carpeta dist.
+- Agrega los archivos necesarios:
+Copia junto al .exe los siguientes archivos:
+- idioma.py
+- languages.py
+- Descomprime el archivo pyinstaller_portable.rar en la misma ubicación
+
+Con estos pasos, tendrás una versión ejecutable del programa lista para distribuir o usar sin necesidad de instalar Python.
