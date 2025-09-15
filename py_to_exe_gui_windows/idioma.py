@@ -1,0 +1,1 @@
+IDIOMA_ACTUAL = "es"
