@@ -30,6 +30,12 @@ Pensada para distribución final. El usuario puede convertir scripts sin tener P
 
 Este convertidor es más que una herramienta: es una experiencia pensada para facilitar el trabajo del programador, con elegancia, eficiencia y un toque personal
 
+# 📥 Descarga
+
+Puedes descargar la versión portable para WINDOWS del programa desde el siguiente enlace:
+
+# 👉 [Descargar py_to_exe_gui_Portable.rar](https://github.com/pablootero-cl/py_to_exe_gui/releases/download/v1.0.0/py_to_exe_gui_Portable.rar)
+
 # # 📝 Cómo generar el ejecutable del programa
 
 Debido a las limitaciones de GitHub (no permite subir archivos mayores a 25 MB), el archivo .exe no está incluido directamente en el repositorio. Sin embargo, puedes generarlo fácilmente utilizando el propio convertidor incluido en el proyecto.
